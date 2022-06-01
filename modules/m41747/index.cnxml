@@ -1,0 +1,362 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Acid-Bases, Water and Electrolytes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41747</md:content-id>
+  <md:title>Acid-Bases, Water and Electrolytes</md:title>
+  <md:abstract>These are exercise test questions to help build your knowledge of Water, Electrolytes and acid-base lectures. This will help expand your knowledge on the topics to maximize learning at a deeper level, build confidence and help you succeed in the course.</md:abstract>
+  <md:uuid>9ea6ea9e-0d04-407f-bf45-b3394019e893</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-963">Match each of the buffers (1-4)with its characteristics as a buffer system to minimize pH changes (A-D) below:</para>
+    <list id="eip-168" list-type="enumerated" number-style="arabic"><item>Bicarbonate-Carbonic acid</item>
+	<item>Hemoglobin</item>
+	<item>Phosphate</item>
+         <item>Proteins</item></list><list id="eip-382" list-type="enumerated" number-style="upper-alpha"><item>H+ ions react with bicarbonate</item>
+	<item>Charged amino acids bind excess H+ ions</item>
+	<item>H+ ions react with HPO4-2</item>
+         <item>Bind either CO2 and H+ ions</item></list>
+    
+    <table id="id1169449304446" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">5. Which of the following statements <emphasis effect="bold">BEST</emphasis> describes the concept of acid-base balance (homeostasis)?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Acid/base produced and absorbed &lt; acid/base excreted and expired</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Acid/base produced and absorbed &gt; acid/base excreted and expired</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Acid/base produced and absorbed = acid/base excreted and expired</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>There is not acid/base produced and absorbed in the human body</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>There is not acid/base excreted and expired in the human body</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1169448105933" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">6. Which of the following is the <emphasis effect="bold">LEAST LIKELY</emphasis> property of water?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Water is an ideal solvent since it helps maintain a constant distribution throughout the body.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Facilitates the dissociation and movement of molecules between body compartments.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Can serve as a reagent and provides a constant environment for the cells since it dissipates heat.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>The polar nature of water facilitates the formation of its partial charges, hydrogen bonds and hydrated shells with other polar molecules.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Water is static in each of the compartments and this does not contributes to the total concentration of electrolytes in any of the compartments. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1169448170169" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">7. Which of the following excreted molecules would <emphasis effect="bold">MOST LIKELY</emphasis> make the pH of urine basic?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Bicarbonate</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Carbonic acid</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Non-volatile acids</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Carbon dioxide</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Citrate</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1169454585882" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">8. When excess amount of water is retained in the body as a result of lack of urination, water has moved from plasma into the interstitial fluid. To which compartment will the water move next to correct this problem?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Intracellular Fluid </entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Intravascular Fluid</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Interstitial Fluid</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Transcellular Fluid</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>No Compartment</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1169448487324" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">9. When excess amount of water is excreted in urine, which is the first compartment to replace the water lost in the plasma?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Intracellular Fluid</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Interstitial Fluid</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Transcellular Fluid</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Intravascular Fluid</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>No compartment</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1169448047586" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">10. Which of the following <emphasis effect="bold">MOST LIKELY</emphasis> excretes volatile acids in the form of carbon dioxide?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Kidneys</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Proteins </entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Phosphate</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Ammonia - Ammonium</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Lungs</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1169448039832" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">11. Which of the following acids is <emphasis effect="bold">MOST LIKELY</emphasis> to be converted into a volatile acid?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Hydrochloric acid</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Carbonic Acid</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Sulfuric Acid</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Dihydrogen Phosphate</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Ammonium Ion</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1169448183855" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">12. Which of the following is the <emphasis effect="bold">LEAST LIKELY</emphasis> to be a component of extracellular fluid?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Interstitial fluid</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Transcellular fluid</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Intravascular fluid</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Intracellular fluid</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Plasma</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1169449169891" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">13. Which of the following effects <emphasis effect="bold">MOST</emphasis> likely results from increased alveolar ventilation?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Higher concentration of carbon dioxide (CO2)</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Lower concentration of carbon dioxide </entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Higher concentration of H+ ions</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Decreases pH of the extracellular fluid (ECF)</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Higher concentration of carbonic acid (H2CO3)</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1169448130843" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">14. What is the <emphasis effect="bold">MOST LIKELY</emphasis> result of high levels of potassium inside the tubular cells?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Potassium is reabsorbed into circulation to keep the pH of body fluids constant.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Cells utilize potassium for fuel and prevent acid formation.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Reabsorption of hydrogen ions into circulation increases the acidity of body fluids.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Excreting potassium ions increases the acidity of urine and decreases the acidity of body fluids.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Potassium remains inside the tubular cells in order to excrete hydrogen ions.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1169448496400" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">15. Which of the following buffers <emphasis effect="bold">MOST LIKELY</emphasis> excretes non-volatile acids as NaH2PO4?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Bicarbonate - Carbonic Acid</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Ammonia- Ammonium</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Phosphate</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Citrate</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Urate</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

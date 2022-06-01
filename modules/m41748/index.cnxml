@@ -1,0 +1,171 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Proteins and Nucleic Acids</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41748</md:content-id>
+  <md:title>Proteins and Nucleic Acids</md:title>
+  <md:abstract>These are exercise test questions to help build your knowledge of proteins and nucleic acids lectures. This will help expand your knowledge on the topics to maximize learning at a deeper level, build confidence and help you succeed in the course.</md:abstract>
+  <md:uuid>a780e44e-ba7f-4b77-b427-3acd8822f0eb</md:uuid>
+</metadata>
+
+<content>
+    <table id="id1168350149433" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">1. Which of the following is <emphasis effect="bold">MOST LIKELY</emphasis> an example of a paralog?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Hemoglobin A &amp; Hemoglobin F</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Hemoglobin S and Hemoglobin C</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Hemoglobin A1 and Hemoglobin A2</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Myoglobin &amp; Hemoglobin</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Creatine kinase BB and Creatine kinase MM</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id8826316" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">2. Which of the following is the <emphasis effect="bold">LEAST LIKELY</emphasis> basic structure of the DNA molecule?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Purine Bases: Adenine, Guanine</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Pyrimidine Bases: Cytosine, Uracil</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Pyrimidine Bases: Cytosine, Thymine</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Sugar: Deoxyribose</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>3' to 5' phosphodiester bond between sugars</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id6336421" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">3. Which of the following structures is <emphasis effect="bold">LEAST LIKELY</emphasis> a component of the 80S ribosome?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>60S rRNA subunit</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>40S rRNA subunit</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>DNA and proteins</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>rRNA and proteins</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Binding sites for tRNA</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="eip-507">Match the types of RNAs in questions number 4 and 5 with their corresponding structure on the right:</para>
+    <list id="eip-205" list-type="labeled-item"><item>4. mRNA</item>
+	<item>5. tRNA</item>
+	</list><para id="id1168350595994">
+      <table id="id1168350507510" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>A.</entry>
+              <entry>Cloverleaf adapter with 3' adenosine end and an anticodon region.</entry>
+            </row>
+            <row>
+              <entry>B.</entry>
+              <entry>Double stranded helix with hydrogen bonding between the strands.</entry>
+            </row>
+            <row>
+              <entry>C.</entry>
+              <entry>Single stranded with 5' - cap end and polyadenosine tails.</entry>
+            </row>
+            <row>
+              <entry>D.</entry>
+              <entry>Two subunits with secondary structure as a result of extensive base pairing loops.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </para>
+    
+    <para id="id6958958">
+      <table id="id1168351449363" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">6. In the picture below:<media id="id1168352902780" alt=""><image mime-type="image/png" src="../../media/graphics1-f314.png"/></media>Which of the following statements is <emphasis effect="bold">MOST LIKELY</emphasis> the cause of these changes in the human chromosomes?</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+            </row>
+            <row>
+              <entry>A.</entry>
+              <entry>Exchanging DNA segments between two chromosomes.</entry>
+            </row>
+            <row>
+              <entry>B.</entry>
+              <entry>Moving segments of DNA to another location in the same gene.</entry>
+            </row>
+            <row>
+              <entry>C.</entry>
+              <entry>Normal synthesis of DNA per genetic code in the human genome of individuals. </entry>
+            </row>
+            <row>
+              <entry>D.</entry>
+              <entry>Synthesis of ds-cDNA from a viral RNA template for integration into the human genome.</entry>
+            </row>
+            <row>
+              <entry>E.</entry>
+              <entry>Breaking and exchanging large portions of the chromosomes due to carcinogens and chemicals.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </para>
+  </content>
+</document>

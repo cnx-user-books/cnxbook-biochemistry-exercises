@@ -1,0 +1,329 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Comprehensive III</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m42109</md:content-id>
+  <md:title>Comprehensive III</md:title>
+  <md:abstract>Final exam for all Carbohydrate and Nitrogen lectures.</md:abstract>
+  <md:uuid>2fe4b020-9b7e-497a-8ace-5b1d47f78c4e</md:uuid>
+</metadata>
+
+<content>
+    <table id="id4461352" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">1. For what purpose will the kidneys excrete base as bicarbonate ions (HCO3-)?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Reduce H+ ions concentration in the extracellular fluid (ECF)</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Raise H+ ions concentration in the extracellular fluid (ECF)</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Increase H+ ions excretion</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Reabsorb more bicarbonate ions (HCO3-)</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Generate new bicarbonate ions (HCO3-)</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id8741307">Match the amino acid mutation on the beta globin with the corresponding hemoglobinopathy:</para>
+    <table id="id1167946973184" summary=""><tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+                        <entry namest="c2" nameend="c4">2. ____ Valine replaces glutamic acid</entry>
+            </row>
+          <row>
+                        <entry namest="c2" nameend="c4">3. ____ Lysine replaces glutamic acid</entry>
+                      </row>
+          <row>
+                        <entry namest="c2" nameend="c4">4. ____ Valine replaces glutamic acid on one chain while lysine replaces glutamic acid on the other chain</entry>
+                      </row>
+                  </tbody>
+      </tgroup>
+    </table>
+    <para id="id1167946837757">
+      <table id="id4407523" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>A.</entry>
+              <entry>Hb C</entry>
+            </row>
+            <row>
+              <entry>B.</entry>
+              <entry>Hb S</entry>
+            </row>
+            <row>
+              <entry>C.</entry>
+              <entry>Hb SC</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </para>
+    <table id="id1167947735864" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">5. Which of the following statements is the <emphasis effect="bold">LEAST ACCURATE</emphasis> about DNA polymerase delta?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>This enzyme starts adding polynucleotides to the newly synthesized DNA chain after an RNA-DNA primer is formed on both the leading and lagging strands.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>This enzyme can synthesize about 200 nucleotides of DNA in the lagging strand before it reaches the RNA primer of the next Okazaki fragment.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>This enzymes continuously add polynucleotides to the newly synthesize DNA in the leading strand. </entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>This enzyme is also considered a 3' to 5' exonuclease that proofreads the newly synthesize DNA to detect and repair DNA changes. </entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>This enzyme has the capabilities of an RNA polymerase and completes DNA synthesis at the end of the chromosomes. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1785549" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">6. In which DNA strand are Okazaki fragments <emphasis effect="bold">MOST LIKELY</emphasis> to be found during DNA replication?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Leading</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Lagging</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Major groove</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Minor groove</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>RNA primer</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1167951715288" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">7. In the picture below, abnormal red blood cells are microcytic and hypochromic.<media id="id1167946995581" alt=""><image mime-type="image/png" src="../../media/graphics1-06c6.png"/></media>This picture shows the result of a disorder affecting the heme synthesis and the Fe-S centers of the proteins in the electron transport chain. Which of the following disorders is <emphasis effect="bold">MOST LIKELY</emphasis> to cause this appearance on a peripheral blood smear? </entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Hypoxia</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Cyanide poisoning</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Malaria</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Iron deficiency</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Hemolytic disease of the newborn</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1167951790916" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">8. Which of the following statements about oxidative phosphorylation is <emphasis effect="bold">FALSE</emphasis>?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>One full turn of the c subunits of the F0 pore releases a total of twelve protons into the mitochondrial matrix.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Energy from the electrochemical gradient of the electron transport chain and rotation of the asymmetric shaft of the F0 pore alters the shape of binding sites of the F1 headpiece.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>One full term of the binding sites in the F<sub>1</sub> headpiece releases twelve ATP molecules. </entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>The three binding sites in the F1 headpiece facilitates: binding of ADP + Pi, as well as synthesis and release of ATP.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>The body's increased needs for energy during strenuous exercise ties together oxidative phosphorylation to the electron transport chain and the tricarboxylic acid pathways.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1167947144174" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">9. Which of the following statements is <emphasis effect="bold">LEAST CORRECT</emphasis> about the process of elongation during protein synthesis?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>When the P site in the 60S subunit is bound, an aminoacyl-tRNA must have a complimentary and antiparallel anticodon to the next mRNA codon in order to bind the A site in the 60S subunit.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Peptidyltransferase joins the amino acids attached to tRNAs in both the P and A sites of the 60S subunit.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>The aminoacyl-tRNA on A site contains the growing polpeptide chain and moves to the P site when the uncharged tRNA on the P site is released. </entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>The process of forming aminoacyl-tRNA complexes, peptide bonds and translocation of the growing protein chain is repeated numerous times until a stop codon is reached.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>The growing polypeptide chains forms only primary and secondary structures once outside the tunnel of the 80S ribosome. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1167947594266" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">10. Which of the following molecules is <emphasis effect="bold">MOST LIKELY</emphasis> to base pair with Uracil in RNA secondary or tertiary structures?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Adenosine</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Guanine</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Cytosine</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Thymine</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Uracil</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1167947160477" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">11. Which of the following chemicals is <emphasis effect="bold">LESS LIKELY</emphasis> to cause damage to the central nervous system or cancer by inhibiting alpha-ketoacid dehydrogenase in the tricarboxylic acid pathway?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Mercury</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Arsenate (AsO4-3)</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Arsenite (AsO3-3)</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>NADH</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1167945806943" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">12. Which of the following statements about the urea cycle is <emphasis effect="bold">INACCURATE</emphasis>?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>The rate of the urea cycle increases as amino acids are degraded.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>The first source of the nitrogen for the cycle is in the form of NH4+.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Aspartate provides the second source of nitrogen for the cycle as NH2.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Brain and muscle tissue provides nitrogen in the form of glutamine.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Bacteria produce NH4+, which travels to the liver via the hepatic portal vein.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

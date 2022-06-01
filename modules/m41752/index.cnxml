@@ -1,0 +1,630 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Carbohydrate and Nitrogen II</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41752</md:content-id>
+  <md:title>Carbohydrate and Nitrogen II</md:title>
+  <md:abstract>These are exercise test questions to help build your knowledge of carbohydrate and nitrogen lectures. This will help expand your knowledge on the topics to maximize learning at a deeper level, build confidence and help you succeed in the course.</md:abstract>
+  <md:uuid>26d28ff9-6666-4424-9243-aed86f268718</md:uuid>
+</metadata>
+
+<content>
+    <table id="id5604761" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">1. Which of the following statements about glucose transporters is <emphasis effect="bold">TRUE</emphasis>?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>The transporter for red blood cells is an insulin-sensitive transporter.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>The transporter in spermatozoa function to transport fructose.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>The transporter for muscle is a glucose sensor transporter.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>The transporter for adipose tissue is a low affinity transporter.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>The transporter for the liver is a high affinity transporter.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id4678490" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">2. Which of the following statements <emphasis effect="bold">BEST</emphasis> states the clinical significance of glucose transporters in the brain? </entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>The passage of glucose across the endothelial cells of the blood brain barrier is fast, thus maintaining a balance of supply and demand, especially during systemic hypoglycemia and seizures.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>An ideal glucose level for normal neuronal function is 18-54 mg/dL and this prevents symptoms of light-headedness, dizziness or coma.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>The levels of GLUT1 and GLUT3 remain constant from birth to adulthood and this facilitates neuronal maturation and synaptic activity in the brain.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Patients with Alzheimer's disease show reduced levels of GLUT1 and GLUT3 in regions that show deficits in cerebral glucose utilization. </entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Studies of glucose transporters in the brain do not offer any useful information for diseases like diabetes, hypoxia/ischemia, epilepsy and neurodegenerative disorders. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id5423035" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">3. Which of the following statements about muscle protein degradation is <emphasis effect="bold">INCORRECT</emphasis>?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>An ubiquitin-proteasome complex targets proteins that contains rich region of proline, glutamate, serine and threonine (PEST).</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>An active proteasome complex breaks down muscle proteins via a PA700 CAP with a PA28 subunit or a PA 28 subunit by itself.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Lysosomes contain cathepsins enzymes which break down muscle proteins and release amino acids into circulation.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Phagocytosis facilitates the intake and break down of muscle proteins in the inside of the lysosomes.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Calpains are cytosolic calcium regulated enzymes capable of breaking muscle proteins into amino acids.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id6566769" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">4. Which of the following <emphasis effect="bold">CANNOT</emphasis> be broken down into amino acids by any of the enzymes that degrade proteins in the body?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Muscle</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Plant Fiber</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Hemoglobin</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Digestive enzymes</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Sloughed off cells of the intestines</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id5955992"/>
+    <table id="id7132017" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">5. Which of the following statements about GLUT4 is <emphasis effect="bold">INCORRECT</emphasis>?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>GLUT4 is a glucose transporter predominantly found in adipose tissue and heart and skeletal muscle. </entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>GLUT4 allows entrance of fructose inside the cells and expressed in cells with barrier functions.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Binding of insulin to a cell receptor activates the GLUT4 transporter to allow glucose inside the cells.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Insulin helps regulates the synthesis and activation of glycogen synthase for glycogen storage.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>GLUT4 is inactive as an intracellular vesicle during periods of fasting and activated during the feeding state by insulin. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id5550121" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">6. Which of the following is <emphasis effect="bold">NOT</emphasis> a common problem associated with excessive secretion of insulin?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Hypoglycemia</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Depleted storage of glycogen</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>High storage of glycogen</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Stimulation of synthesis of glycogen</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Inhibition of glycogen degradation</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id2623207" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">7. Which of the following statements about the fate of amino acids during fasting conditions is <emphasis effect="bold">INCORRECT</emphasis>?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>In the fasting state, amino acids from the digestion of dietary proteins travel to the liver for the synthesis of proteins.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>In the intestines and lymphocytes, glutamine is converted to alanine and travels via circulation to the liver. </entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Amino acids from muscle protein are converted to alanine and glutamine and these are the main forms of transport in the blood.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>The carbons of alanine are converted to glucose, CO2 and ketones bodies and the nitrogen is converted to urea in the liver.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>In the kidneys, glutamine releases ammonia for the formation of salts with metabolic acids in the renal tubules.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id7207363" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">8. Which of the following intestinal enzymes is responsible for the activation of other intestinal zymogens under basic conditions?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Pepsin</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Enteropeptidase</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Trypsin</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Chymotrypsin</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Aminopeptidase</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id7048856" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">9. Which of the following statements is <emphasis effect="bold">MOST ACCURATE</emphasis> about the catalytic function of chymotrypsin and carboxypeptidase A in the digestion of proteins in the small intestine?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Cleaves peptide bonds with Arg and Lys side groups amino acids</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Cleaves peptide bond in elastin and small side groups amino acids</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Cleaves peptide bonds with hydrophobic side groups amino acids</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Cleaves peptide bonds with basic side group amino acids</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Cleave peptide bonds one amino acid at a time at the N-terminus ends of proteins</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id4044642" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">10. Which of the following protein complexes works simultaneously in both the tricarboxylic acid and the electron transport chain during ATP synthesis?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Complex I</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Complex II</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>CoQ</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Complex III</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Complex IV</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id6491590" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">11. Which of the following statements is <emphasis effect="bold">INCORRECT</emphasis> about oxidation-reductions reactions in the electron transport chain?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Initial reduction reactions involve accepting electrons from electrons donors of the tricarboxylic acid pathway.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>The consumption of oxygen is a reduction reaction in which O2 accepts 4 electrons from complex IV and 4 protons from the proton wires.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Oxidation-reductions reactions happen sequentially by proteins accepting and donating electrons in the electron transport chain.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Oxidation-reduction reactions from electron transfer provide the energy necessary to pump protons out of the matrix. </entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Oxidation-reduction reactions are bidirectional making the electron transport chain reversible when ATP needs decreases. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1321015" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">12. Which of the following statements <emphasis effect="bold">MOST LIKELY</emphasis> shows the effects of decreased oxygen and cyanide poisoning?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Depletes iron stores in the bone marrow by impairing hemoglobin synthesis and causing severe iron lost in the tissues. </entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Maintains the amount of ATP nearly constant for metabolic needs of the tissues except for muscle. </entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Restores the electrochemical gradient to increase proton pumping and electrons to meet the high demands for ATP.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Causes cellular damage by directly affecting electron flow and proton pumping in the electron transport chain and ATP synthesis.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Gets incorporated into maternal mitochondrial DNA and is passed 100% of the time to the offspring. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    
+    <table id="id4088992" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">13. Which of the following statements is <emphasis effect="bold">MOST ACCURATE</emphasis> about resting muscle?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>High demands for ATP depletes the protons in the electrochemical gradient stimulating both the rate of ATP synthesis and the electron transport chain.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>The buildup of electron carriers inhibits the enzymes of the tricarboxylic acid facilitating the export of intermediates of this pathway to other metabolic pathways.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Need for ATP is linked to increase concentrations of both adenosine diphosphate and pyrophosphate and the influx of protons into the matrix.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>The amount remains nearly constant for all muscles in the body regardless whether muscle is contracting or resting. </entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>O2 consumption speeds up electron flow, thus increasing the electron carriers from the tricarboxylic acid to supply more electrons for the electron transport chain. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id6378227" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">14. Which of the following pathways is responsible for the formation of cataracts as a result of high levels of galactose and glucose in blood and urine?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Glycolysis</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Tricarboxylic acid</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Polyol Pathway</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Pentose Phosphate</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Beta Oxidation</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id6285520" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">15. Which of the following statements <emphasis effect="bold">MOST LIKELY</emphasis> states the difference between classical and non-classical galactosemia?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Increased levels of galactose in urine.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Increased levels of galactose in blood.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Accumulation of galactose-1-phosphate in the tissues.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Formation of cataracts on the lenses of eyes via polyol pathway.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Aldose reductase converts blood galactose into galactitol.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id6709579" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">16. Which of the following amino acids, produced from intermediates of glycolysis, is used for the synthesis of both purine bases for nucleic acids and porphyrin for the hemoglobin molecule?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Glutamine</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Glycine</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Aspartate</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Asparagine</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Alanine</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id6389508" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">17. Which of the following statements about lactose synthesis is <emphasis effect="bold">INCORRECT</emphasis>?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>One important site for lactose synthesis is the mammary gland right after childbirth under the influence of prolactin.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Lactose synthase is made up of two catalytic sites for the synthesis of lactose or glycoproteins based on hormonal stimuli.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Galactosyltransferase adds a galactose to a glucose molecule via β-1, 4 glycosidic bonds.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>α-lactalbumin synthesizes glycoproteins when no prolactin is released and galactosyltransferase is inactive.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Alpha-lactalbumin increases the production of lactose in order to meet the dietary needs of a lactating infant every two hours. </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id6305550" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">18. Which of the following statements about the urea cycle is <emphasis effect="bold">INACCURATE</emphasis>?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>The main carriers of nitrogen to the liver to enter the urea cycle are the amino acids alanine and glutamine.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>The rate of ammonia (NH4+) formation speeds up the rate of the urea production to be sent to the kidneys for excretion.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>A diet rich in high proteins with periods of prolong fasting in between meals stimulates the synthesis of all the enzymes of the urea cycle.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Increased synthesis of arginine facilitates the regeneration of ornithine and activates carbamoylphosphate synthetase I (CPSI).</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Ornithine is an amino acid with an mRNA codon that is degraded into urea in the last step of the urea cycle.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id5009489" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">19. Which of the following molecules <emphasis effect="bold">DOES NOT</emphasis><emphasis effect="bold"/>accumulate in blood<emphasis effect="bold"/>as a result of a defect in any of the enzymes of the urea cycle?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Any of the intermediates of the urea cycle</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Ammonia in the form of NH4+</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Glutamine and alanine</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>All the intermediates of glycolysis</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id5181006" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">20. Which of the following statements about jaundice is <emphasis effect="bold">INCORRECT</emphasis>?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Neonatal jaundice is caused by the breakdown of fetal hemoglobin and an immature bilirubin conjugation system in the liver.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Unconjugated bilirubin is insoluble in plasma and accumulates in hydrophobic regions of the eyes and the skin.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Laboratory tests measure the levels of bilirubin in blood as indirect bilirubin, direct bilirubin and total bilirubin.</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Yellow tinge of the skin and sclera of the eyes is seen when bilirubin blood levels are below 1 mg/dL.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>In adults, it is caused by liver failure to transport, store or conjugate bilirubin, thus accumulating bilirubin in blood.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

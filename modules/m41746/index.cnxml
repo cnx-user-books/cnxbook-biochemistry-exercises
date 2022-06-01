@@ -1,0 +1,658 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Proteins, Amino Acids, Nucleic Acids, Electron transport chain and Tricarboxylic acid</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41746</md:content-id>
+  <md:title>Proteins, Amino Acids, Nucleic Acids, Electron transport chain and Tricarboxylic acid</md:title>
+  <md:abstract>These are exercise test questions to help build your knowledge of Proteins, Amino Acids, Nucleic Acids, Electron transport chain and Tricarboxylic acid lectures. This will help expand your knowledge on the topics to maximize learning at a deeper level, build confidence and help you succeed in the course.</md:abstract>
+  <md:uuid>289a66f0-538f-4a38-b3bc-75360a784bfc</md:uuid>
+</metadata>
+
+<content>
+    <table id="id1171126472340" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">1. Which of the following interactions is <emphasis effect="bold">LEAST LIKELY</emphasis> to contribute to the overall 3-dimensional structure of a protein and its physiological function?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Hydrophobic regions</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Hydrogen bonding</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Conduction of heat</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Disulfide bonds</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Ionic bonding</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1171141830571" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">2. Which of the following classifications will <emphasis effect="bold">MORE LIKE</emphasis> describe the dual function of the side groups of an amino acid acting as polar binding site as well as an acid-base buffer?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Non-polar amino acids</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Polar and uncharged amino acids</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Polar and charged amino acids</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Peptide bonds</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>L-form isomers</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1171134096268" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">3. Which of the following statements is the <emphasis effect="bold">MOST ACCURATE</emphasis> in regards to the DNA molecular structure?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>DNA is a single stranded molecule with secondary and tertiary structures of a common protein.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>DNA strands run in the same direction and are parallel to each other in a linear fashion to keep the DNA molecule intact.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>The DNA molecule has a double stranded spiral shape with two types of grooves for protein interactions. </entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>The phosphodiester bond formed between the carbon atoms of two adjacent ribose sugars facilitates the overall shape of the DNA molecule.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>The overall shape of the DNA molecule is determined by base pairing between two purines (adenine and guanine) or two pyrimidines (cytosine and thymine).</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1171144685592">
+      <table id="id1171141619957" summary=""><tgroup cols="2">
+		<colspec colnum="1" colname="c1"/>
+		<colspec colnum="2" colname="c2"/>
+		<tbody>
+			<row>
+				<entry namest="c1" nameend="c2">4. In which region of the tRNA molecule would amino acids <emphasis effect="bold">MOST LIKELY</emphasis> bind?</entry>
+			</row>
+			<row>
+				<entry>A.</entry>
+				<entry>Anticodon</entry>
+			</row>
+			<row>
+				<entry>B.</entry>
+				<entry>Ribothymidine</entry>
+			</row>
+			<row>
+				<entry>C.</entry>
+				<entry>Dihydrouridine</entry>
+			</row>
+			<row>
+				<entry>D.</entry>
+				<entry>3' end adenosine</entry>
+			</row>
+			<row>
+				<entry>E.</entry>
+				<entry>Pseudouridine</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table>
+    </para>
+    <table id="id1171140056445" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">5. Which of the following DNA repair mechanisms <emphasis effect="bold">MOST LIKELY</emphasis> corrects the addition of bulky adducts on the bases of DNA?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Base Excision</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Replication</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Mismatch</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Nucleotide Excision</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Transcription-Coupled</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1171136901603" summary=""><tgroup cols="2">
+				<colspec colnum="2" colname="c2"/>
+		<colspec colnum="3" colname="c3"/>
+		<colspec colnum="4" colname="c4"/>
+		<colspec colnum="5" colname="c5"/>
+		<tbody>
+			<row>
+				<entry/>
+				<entry namest="c2" nameend="c5">6. Which of the following processes <emphasis effect="bold">BEST</emphasis> describe the release of an uncharged-tRNA on the P site and the movement of a peptidyl-tRNA from the A site to the P site of the 80S ribosome?</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>A.</entry>
+				<entry namest="c3" nameend="c5">Replication</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>B.</entry>
+				<entry namest="c3" nameend="c5">Transcription</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>C.</entry>
+				<entry namest="c3" nameend="c5">Initiation</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>D.</entry>
+				<entry namest="c3" nameend="c5">Translocation</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>E.</entry>
+				<entry namest="c3" nameend="c5">Termination</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table>
+    <para id="id7439313">
+      <table id="id7150775" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">7. Which of the following statements is the <emphasis effect="bold">LEAST ACCURATE</emphasis> about DNA polymerase delta?</entry>
+            </row>
+            <row>
+              <entry>A.</entry>
+              <entry>This enzyme starts adding polynucleotides to the newly synthesized DNA chain after an RNA-DNA primer is formed on both the leading and lagging strands.</entry>
+            </row>
+            <row>
+              <entry>B.</entry>
+              <entry>This enzyme can synthesize about 200 nucleotides of DNA in the lagging strand before it reaches the RNA primer of the next Okazaki fragment.</entry>
+            </row>
+            <row>
+              <entry>C.</entry>
+              <entry>This enzyme continuously adds polynucleotides to the newly synthesize DNA in the leading strand. </entry>
+            </row>
+            <row>
+              <entry>D.</entry>
+              <entry>This enzyme is also considered a 3' to 5' exonuclease that proofreads the newly synthesize DNA to detect and repair DNA changes. </entry>
+            </row>
+            <row>
+              <entry>E.</entry>
+              <entry>This enzyme has the capabilities of an RNA polymerase and completes DNA synthesis at the end of the chromosomes. </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </para>
+    <table id="id2036847" summary=""><tgroup cols="5">
+		<colspec colnum="1" colname="c1"/>
+		<colspec colnum="2" colname="c2"/>
+		<colspec colnum="3" colname="c3"/>
+		<colspec colnum="4" colname="c4"/>
+		<colspec colnum="5" colname="c5"/>
+		<tbody>
+			<row>
+				<entry/>
+				<entry namest="c2" nameend="c5">8. Which of the following DNA mutations will <emphasis effect="bold">MOST LIKELY</emphasis> produce a defective mRNA with a different reading frame than normal?</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>A.</entry>
+				<entry namest="c3" nameend="c5">Point Mutations</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>B.</entry>
+				<entry namest="c3" nameend="c5">Frameshift</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>C.</entry>
+				<entry namest="c3" nameend="c5">Missense</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>D.</entry>
+				<entry namest="c3" nameend="c5">Nonsense</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>E.</entry>
+				<entry namest="c3" nameend="c5">Silent</entry>
+			</row>
+					</tbody>
+	</tgroup>
+</table>
+    <para id="id1171126176206">
+      <table id="id1171143601992" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">9. Which of the following codon is <emphasis effect="bold">LEAST LIKELY</emphasis> to terminate protein synthesis?</entry>
+            </row>
+            <row>
+              <entry>A.</entry>
+              <entry>UAG</entry>
+            </row>
+            <row>
+              <entry>B.</entry>
+              <entry>UAA</entry>
+            </row>
+            <row>
+              <entry>C.</entry>
+              <entry>AUG</entry>
+            </row>
+            <row>
+              <entry>D.</entry>
+              <entry>UGA</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </para>
+    <table id="id1171128555312" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">10. Which of the following structures <emphasis effect="bold">MOST LIKELY</emphasis> makes the 3' end of a newly synthesized mRNA molecule?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>5' cap</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Pol (A) tail</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Codons for amino acids</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Start codon</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Stop codon</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1171132615365">
+      <table id="id1171132876819" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">11. Which of the following statements is <emphasis effect="bold">LEAST LIKELY </emphasis>to be correct about metabolism in the mitochondria?</entry>
+            </row>
+            <row>
+              <entry>A.</entry>
+              <entry>In the mitochondria, cellular respiration involves oxidation of fuels.</entry>
+            </row>
+            <row>
+              <entry>B.</entry>
+              <entry>The goal of metabolism is to generate energy in the form of ATP. </entry>
+            </row>
+            <row>
+              <entry>C.</entry>
+              <entry>ATP is use as energy to sustain cellular respiration in the mitochondria as well as other metabolic pathways. </entry>
+            </row>
+            <row>
+              <entry>D.</entry>
+              <entry>Cellular respiration does not consumed oxygen in order to generate ATP.</entry>
+            </row>
+            <row>
+              <entry>E.</entry>
+              <entry>Three pathways, the tricarboxylic acid, electron transport chain and oxidative phosphorylation, work together to generate ATP and heat. </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </para>
+    <table id="id1171144340914" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">12. Which of the following components in the electron transport chain <emphasis effect="bold">MOST LIKELY</emphasis> shares the same enzyme with the tricarboxylic acid pathway?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Complex I: NADH dehydrogenase</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Complex II: Succinate dehydrogenase</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Cytochrome c</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Complex III: cytochromes b-c1</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Complex IV: cytochrome c oxidase</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1171142457983">
+      <table id="id1171136538213" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">11. Which of the following statements is <emphasis effect="bold">LESS ACCURATE </emphasis>about the electron transport chain?</entry>
+            </row>
+            <row>
+              <entry>A.</entry>
+              <entry>Pathway responds very rapidly based on the body's needs and demands for energy (ATP).</entry>
+            </row>
+            <row>
+              <entry>B.</entry>
+              <entry>Pathway uses an electrochemical gradient of protons to provide the energy necessary for ATP synthesis, transport of ions across the mitochondrial membrane and heat.</entry>
+            </row>
+            <row>
+              <entry>C.</entry>
+              <entry>This pathway is reversible and electron transfer is not linked to proton pumping into the intermembrane space.</entry>
+            </row>
+            <row>
+              <entry>D.</entry>
+              <entry>Pathway consists of a series of oxidation-reductions reactions carried out by a series of electron carrier complexes inside the inner membrane of the mitochondria.</entry>
+            </row>
+            <row>
+              <entry>E.</entry>
+              <entry>The electrons carriers pass electrons to other complexes sequentially while pumping protons into the intermembrane space. </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </para>
+    <table id="id1821474" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">14. Which of the following pairs of enzymes are <emphasis effect="bold">MOST LIKELY</emphasis> to cause accumulation of acids in the blood as a result of thiamine deficiency?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Malate dehydrogenase and citrate synthase</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Succinate dehydrogenase and fumarase</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Pyruvate dehydrogenase and alpha-ketoacid dehydrogenase</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>SuccinylCoA synthase and citrate synthase</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Isocitrate dehydrogenase and aconitase</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1171132671576" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">15. Which of the following classes of molecules is <emphasis effect="bold">LESS LIKELY</emphasis> to feed into the tricarboxylic acid pathway to be oxidized as fuel?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Amino acids</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Carbohydrates</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Fatty Acids</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Enzymes</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Alcohols like ethanol</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id6573279" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">16. Which of the following chemicals is <emphasis effect="bold">LESS LIKELY</emphasis> to cause damage to the central nervous system or cancer by inhibiting alpha-ketoacid dehydrogenase in the tricarboxylic acid pathway?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Mercury</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Arsenate (AsO4-3)</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Arsenite (AsO3-3)</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>NADH</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id6546361" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">17. Which of the following statements is <emphasis effect="bold">LEAST ACCURATE</emphasis> about oxidative phosphorylation?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>One full turn of the c subunits of the F0 pore releases a total of twelve protons into the mitochondrial matrix.</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Energy from the electrochemical gradient of the electron transport chain and rotation of the asymmetric shaft of the F0 pore alters the shape of binding sites of the F1 headpiece.</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>One full term of the binding sites in the F<sub>1</sub> headpiece releases twelve ATP molecules. </entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>The three binding sites in the F1 headpiece facilitates: binding of ADP + Pi, as well as synthesis and release of ATP.</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>The body increased needs for energy during strenuous exercise ties together oxidative phosphorylation to the electron transport chain and the tricarboxylic acid pathways.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1928670" summary=""><tgroup cols="5">
+		<colspec colnum="1" colname="c1"/>
+		<colspec colnum="2" colname="c2"/>
+		<colspec colnum="3" colname="c3"/>
+		<colspec colnum="4" colname="c4"/>
+		<colspec colnum="5" colname="c5"/>
+		<tbody>
+			<row>
+				<entry/>
+				<entry namest="c1" nameend="c5">18. In the picture below:<media id="id1171135992926" alt=""><image mime-type="image/png" src="../../media/graphics1-61f7.png"/></media>Which of the following DNA mutations is <emphasis effect="bold">MOST LIKELY</emphasis> the cause of these changes in the chromosomes?</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>A.</entry>
+				<entry namest="c3" nameend="c5">Duplications</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>B.</entry>
+				<entry namest="c3" nameend="c5">Deletions</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>C.</entry>
+				<entry namest="c3" nameend="c5">Silent</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>D.</entry>
+				<entry namest="c3" nameend="c5">Missense</entry>
+			</row>
+			<row>
+				<entry/>
+				<entry>E.</entry>
+				<entry namest="c3" nameend="c5">Nonsense</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table>
+    <para id="id1171144368353">
+      <table id="id6576532" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">19. Which of the following metabolic pathways are <emphasis effect="bold">LESS LIKELY</emphasis> to use an intermediate molecule directly from the tricarboxylic acid pathway for their other own metabolism?</entry>
+            </row>
+            <row>
+              <entry>A.</entry>
+              <entry>Amino acids synthesis, nucleotide synthesis and gluconeogenesis</entry>
+            </row>
+            <row>
+              <entry>B.</entry>
+              <entry>Glycolysis, glycogen synthesis and pentose phosphate pathway</entry>
+            </row>
+            <row>
+              <entry>C.</entry>
+              <entry>Fatty acids, steroids and neurotransmitter synthesis</entry>
+            </row>
+            <row>
+              <entry>D.</entry>
+              <entry>Electron transport chain and oxidative phosphorylation</entry>
+            </row>
+            <row>
+              <entry>E.</entry>
+              <entry>Porphyrin and heme synthesis</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </para>
+    <table id="id1171142462055" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">20. In this picture below, abnormal red blood cells are microcytic and hypochromic.<media id="id1171139616377" alt=""><image mime-type="image/png" src="../../media/graphics2.png"/></media> This picture shows the result of a disorder affecting the heme synthesis and the Fe-S centers of the proteins in the electron transport chain. Which of the following disorders is <emphasis effect="bold">MOST LIKELY</emphasis> to cause this appearance on a peripheral blood smear? </entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>Hypoxia</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>Cyanide poisoning</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>Malaria</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>Iron deficiency</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Hemolytic disease of the newborn</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

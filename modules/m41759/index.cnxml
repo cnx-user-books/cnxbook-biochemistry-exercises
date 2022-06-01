@@ -1,0 +1,123 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Protein and Nucleic Acids II</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41759</md:content-id>
+  <md:title>Protein and Nucleic Acids II</md:title>
+  <md:abstract>These are exercise test questions to help build your knowledge of proteins and nucleic acids lectures. This will help expand your knowledge on the topics to maximize learning at a deeper level, build confidence and help you succeed in the course.</md:abstract>
+  <md:uuid>72f701ed-4f2a-41f3-9610-1ab3ae8c9f9c</md:uuid>
+</metadata>
+
+<content>
+    <list id="id1167984949905" list-type="enumerated" number-style="arabic">
+      <item>Which of these is <emphasis effect="bold">NOT</emphasis> a biological requirement for maintaining a protein’s 3-D structure?</item>
+    </list>
+    <list id="id1167998878215" list-type="enumerated" number-style="upper-alpha"><item>It must demonstrate both flexibility and stability.</item>
+      <item>It must have an external surface compatible with its environment.</item>
+      <item>It must be compatible with the structure of its binding sites.</item>
+      <item>It must be degradable.</item>
+      <item>It must resist folding during synthesis.</item>
+     
+    </list>
+    <para id="eip-215">2. Which of these primary amino acid sequences would <emphasis effect="bold">LEAST </emphasis>likely be a component of an α-helix?</para><list id="id1167984660118" list-type="labeled-item"><item>A. thr-pro-gly </item>
+      <item>B. cys-val-tyr </item>
+      <item>C. ser-lys-ala </item>
+      <item>D. phe-phe-phe </item>
+      <item>E. thr-val-met</item>
+      
+    </list>
+    <para id="eip-3">3. What immunoglobulin is present in the greatest percentage in the circulation and can cross the placenta to impart immunity to the developing fetus?</para><list id="id1167977738524" list-type="labeled-item"><item>A. IgG<emphasis effect="bold"/></item>
+      <item>B. IgA </item>
+      <item>C. IgM </item>
+      <item>D. IgD </item>
+      <item>E. IgE</item>
+      
+    </list>
+    <para id="eip-968">4. Which of the following is the main factor that directly regulates glycation of hemoglobin?</para><list id="id1167976732936" list-type="enumerated" number-style="upper-alpha"><item>The enzyme controlling the Amadori reaction </item>
+      <item>The concentration of glucose in blood</item>
+      <item>The specificity of an enzyme cofactor</item>
+      <item>The role of insulin for moving glucose into the red blood cell</item>
+      <item>The concentration of glucagon in blood</item>
+      
+    </list>
+    <para id="eip-457">5. What statement about an enzyme’s active site is <emphasis effect="bold">LEAST</emphasis> correct?</para><list id="id1167981806389" list-type="enumerated" number-style="upper-alpha"><item>The active site is the location of the enzyme-substrate complex.</item>
+      <item>The primary sequence in an active site has functional groups to facilitate the reaction.</item>
+      <item>Substrate binding to an active site results in a conformation change in the enzyme shape. </item>
+      <item>Substrate active sites are specific for enzyme classes.</item>
+      <item>Enzymes are degraded once the reaction is completed after they leave the active site.</item>
+      
+    </list>
+    <para id="eip-151">6. What product directly forms when glucokinase catalyzes a reaction with glucose?</para><list id="id1167976751724" list-type="enumerated" number-style="upper-alpha"><item>Glucose 6-phosphate</item>
+      <item>Galactose</item>
+      <item>Branched glucose molecules</item>
+      <item>Pyruvate</item>
+      <item>Lactate</item>
+      
+    </list>
+    <para id="eip-952">7. Which protein pair is an example of paralog?</para><list id="id1167981799421" list-type="enumerated" number-style="upper-alpha"><item>HbA and HbF</item>
+      <item>CK-BB and CK-MM</item>
+      <item>HbA1 and HbA2</item>
+      <item>Myoglobin and hemoglobin</item>
+      <item>Lactate dehydrogenase and hemoglobin</item>
+     </list>
+    <para id="eip-484">8. Which of the following structures would LEAST likely be a part of a DNA molecule?</para><list id="id1167984533921" list-type="enumerated" number-style="upper-alpha">
+      <item>Adenine bonded to guanine as purine bases</item>
+      <item>Cytosine bonded to uracil as pyrimidine bases</item>
+      <item>Deoxyribose sugar</item>
+      <item>3’ to 5’ phosphodiester bonds between sugar molecules</item>
+      <item>Thymine bonded to cytosine as pyrimidine bases<emphasis effect="bold"/></item>
+    </list>
+    <table id="id1168007949663" summary=""><tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+                <row>
+            <entry namest="c1" nameend="c2">9. Which of the following is <emphasis effect="bold">NOT</emphasis> a component of the 80S ribosome?</entry>
+          </row>
+          <row>
+            <entry>A.</entry>
+            <entry>60S rRNA subunit</entry>
+          </row>
+          <row>
+            <entry>B.</entry>
+            <entry>40S rRNA subunit</entry>
+          </row>
+          <row>
+            <entry>C.</entry>
+            <entry>DNA and proteins</entry>
+          </row>
+          <row>
+            <entry>D.</entry>
+            <entry>rRNA and proteins</entry>
+          </row>
+          <row>
+            <entry>E.</entry>
+            <entry>Binding sites for tRNA</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1167993701145">For #10-11, match the RNA type to the correct description of the corresponding structure.</para>
+    <list id="eip-285" list-type="labeled-item"><item>10. mRNA</item>
+<item>11. tRNA</item>
+</list><list id="id1168001188487" list-type="labeled-item"><item>A. Cloverleaf adapter with 3’ adenosine end and an anticodon region</item>
+      <item>B. Double stranded helix with hydrogen between the strands</item>
+<item>C. Single stranded molecule with a 5’-cap and polyadenosine tail</item>
+<item>D. Two subunits with secondary structures as a result of extensive base pairing loops</item>
+    </list>
+    
+    
+    
+    
+    <list id="eip-207" list-type="labeled-item"><item>12. Which statements <emphasis effect="bold">BEST</emphasis> explains the process demonstrated in the figure? 
+<figure id="id1167984684310">
+        <media id="id1167984684310_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-f314.png" id="id1167984684310__onlineimage" height="120" width="370"/>
+        </media>
+      </figure><list id="eip-11" list-type="enumerated" number-style="upper-alpha"><item>There are two chromosomes that are exchanging portions of DNA.</item>
+      <item>DNA segments are moving to another location on the same gene.</item>
+      <item>DNA is undergoing normal synthesis per the genetic code.</item>
+      <item>Ds-DNA is being synthesized from a viral RNA template for human genome integration.</item>
+      <item>Large portions of chromosomes are exchanged in the presence of a carcinogen.</item></list></item>
+</list>
+  </content>
+</document>
